@@ -8,9 +8,9 @@ This repository contains my personal portfolio website, built to showcase my wor
 
 ## 🎮 Featured Projects
 
-- **Thought Jumper (2024)** – 2D Platformer
+- **Thought Jumper (2025)** – 2D Platformer
 - **Teomaquia (2026)** – 2D Fighting Game
-- **Obskur (2026)** – 2D Platformer
+- **Obskur (2026)** – 3D Isometric Stealth-Horror
 
 ## 👤 Author
 
@@ -19,7 +19,3 @@ This repository contains my personal portfolio website, built to showcase my wor
 - GitHub Profile: [@STiCh2104](https://github.com/STiCh2104)
 - Portfolio Website: [stich2104.github.io](https://stich2104.github.io/)
 - Contact: ting.chen.dev@gmail.com
-
----
-
-Developed by Ting Chen.
